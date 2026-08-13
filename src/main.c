@@ -26,7 +26,7 @@ if(strlen(line) == 0){
 }
 if(strcmp(line,"history")==0)
 {
-print_history;
+print_history();
 free(line);
 continue;
 }
