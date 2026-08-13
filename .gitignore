@@ -1,0 +1,9 @@
+# Compiled executable
+shellforge
+
+# Object files
+*.o
+
+# Temporary files
+*.tmp
+*.swp
